@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlertDialogEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_alert">嗯～真的要離開了嗎？</string>
+    <string name="text_btExit">閃人</string>
+    <string name="text_btYes">對，要去了！</string>
+    <string name="text_btNo">還撐得住…</string>
+
+</resources>

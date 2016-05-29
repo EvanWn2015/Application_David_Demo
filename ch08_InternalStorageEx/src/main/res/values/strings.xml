@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InternalStorageEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_title">Input your words</string>
+    <string name="btnSave">Save</string>
+    <string name="btnAppend">Append and Save</string>
+    <string name="btnOpen">Open</string>
+    <string name="fileSaved">File saved</string>
+    <string name="wordsAppended">Words appended</string>
+    <string name="btnClear">Clear</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <!-- 做法1：使用ActionBar的相關theme需要加入以下兩個屬性 -->
+    <!-- 做法2：直接套用NoActionBar的相關theme即可 -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--將原本的ActionBar設為false隱藏起來-->
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

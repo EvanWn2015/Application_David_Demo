@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory
+        android:title="@string/pref_category_basic_data" >
+        <EditTextPreference
+            android:key="prefName"
+            android:title="@string/pref_name"
+            android:summary="@string/pref_name_summary" />
+        <ListPreference
+            android:key="prefSex"
+            android:title="@string/pref_sex"
+            android:summary="@string/pref_sex_summary"
+            android:dialogTitle="@string/pref_sex_summary"
+            android:entries="@array/pref_sex_list"
+            android:entryValues="@array/pref_sex_list"
+            android:defaultValue="@string/pref_sex_default" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/pref_category_advanced_data" >
+        <MultiSelectListPreference
+            android:key="prefHobby"
+            android:title="@string/pref_hobby"
+            android:summary="@string/pref_hobby_summary"
+            android:dialogTitle="@string/pref_hobby_summary"
+            android:entries="@array/pref_hobby_list"
+            android:entryValues="@array/pref_hobby_list"
+            android:defaultValue="@array/pref_hobby_value_default_list" />
+        <PreferenceScreen
+            android:title="@string/pref_hobby"
+            android:summary="@string/pref_hobby_summary" >
+            <CheckBoxPreference
+                android:key="prefHobbyBaseball"
+                android:title="@string/pref_hobby_baseball"
+                android:defaultValue="true" />
+            <CheckBoxPreference
+                android:key="prefHobbyMusic"
+                android:title="@string/pref_hobby_music" />
+            <CheckBoxPreference
+                android:key="prefHobbySwimming"
+                android:title="@string/pref_hobby_swimming" />
+        </PreferenceScreen>
+        <RingtonePreference
+            android:key="prefRingtone"
+            android:title="@string/pref_ringtone"
+            android:summary="@string/pref_ringtone_summary"
+            android:showSilent="true"
+            android:ringtoneType="all" />
+        <SwitchPreference
+            android:key="prefDisclosure"
+            android:title="@string/pref_disclosure"
+            android:summary="@string/pref_disclosure_summary"
+            android:defaultValue="true" />
+        <Preference
+            android:title="@string/pref_goto_my_web_page"
+            android:summary="@string/pref_goto_my_web_page_summary" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://developer.android.com/index.html" />
+        </Preference>
+    </PreferenceCategory>
+</PreferenceScreen>

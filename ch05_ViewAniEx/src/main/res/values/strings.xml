@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewAniEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_tvTitle">Title</string>
+    <string name="text_rbTranslate">Translate</string>
+    <string name="text_rbRotate">Rotate</string>
+    <string name="text_rbScale">Scale</string>
+    <string name="text_rbAlpha">Alpha</string>
+    <string name="text_rbAnimSet">Animation set</string>
+
+</resources>

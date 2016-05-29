@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ServiceBindEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_btConnect">Connect Service</string>
+    <string name="text_btDisconnect">Disconnect Service</string>
+    <string name="text_btPlay">Play Music</string>
+    <string name="text_btStop">Stop Music</string>
+    <string name="msg_serviceConnected">service connected</string>
+    <string name="msg_serviceDisconnected">service disconnected</string>
+    <string name="msg_serviceLostConnection">service lost connection</string>
+    <string name="msg_musicPlay">music is playing</string>
+    <string name="msg_musicStop">music stopped</string>
+</resources>

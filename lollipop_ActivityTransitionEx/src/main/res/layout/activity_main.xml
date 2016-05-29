@@ -1,0 +1,64 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/imageButton1"
+            android:adjustViewBounds="true"
+            android:onClick="onClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="台灣"
+            android:layout_marginBottom="1sp"
+            android:src="@drawable/banner1" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:adjustViewBounds="true"
+            android:onClick="onClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="三亞"
+            android:layout_marginBottom="1sp"
+            android:src="@drawable/banner2" />
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:adjustViewBounds="true"
+            android:onClick="onClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="承德"
+            android:layout_marginBottom="1sp"
+            android:src="@drawable/banner3" />
+
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:adjustViewBounds="true"
+            android:onClick="onClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="長城"
+            android:layout_marginBottom="1sp"
+            android:src="@drawable/banner4" />
+
+        <ImageButton
+            android:id="@+id/imageButton5"
+            android:adjustViewBounds="true"
+            android:onClick="onClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="重慶"
+            android:src="@drawable/banner5" />
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FormEx</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="os_name">
+        <item>MAC</item>
+        <item>Windows</item>
+        <item>Linux</item>
+    </string-array>
+</resources>

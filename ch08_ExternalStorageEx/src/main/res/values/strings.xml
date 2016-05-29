@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExternalStorageEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnSavePublic">Save Public</string>
+    <string name="btnSavePrivate">Save Private</string>
+    <string name="msg_SavedFilePath">Saved file path: </string>
+    <string name="msg_ExternalStorageNotFound">External storage not found</string>
+    <string name="msg_DirectoryNotCreated">Directory cannot be created</string>
+    <string name="btnLoadPublic">Load Public</string>
+    <string name="btnLoadPrivate">Load Private</string>
+    <string name="msg_LoadedFilePath">Loaded file path: </string>
+    <string name="msg_FileNotFound">File not found</string>
+
+</resources>

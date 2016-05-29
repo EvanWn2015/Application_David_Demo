@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CompositeButtonEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="question1">Which brand do you like?</string>
+    <string name="benz">Benz</string>
+    <string name="bmw">BMW</string>
+    <string name="audi">Audi</string>
+    <string name="question2">Where do you want to visit?</string>
+    <string name="japan">Japan</string>
+    <string name="usa">U.S.A.</string>
+    <string name="france">France</string>
+    <string name="germany">Germany</string>
+    <string name="btnSubmit">CheckBox Submit</string>
+    <string name="vibrate_on">Vibrate_ON</string>
+    <string name="vibrate_off">Vibrate_OFF</string>
+    <string name="power">Power</string>
+    <string name="switch_on">Power_ON</string>
+    <string name="switch_off">Power_OFF</string>
+</resources>

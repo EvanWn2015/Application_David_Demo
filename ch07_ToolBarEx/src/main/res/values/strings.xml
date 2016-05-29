@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToolBarEx</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="toolbar_title">ToolBar Demo</string>
+    <string name="toolbar_subtitle">Sub title</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Share</string>
+</resources>

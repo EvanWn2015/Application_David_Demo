@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ButtonEx</string>
+    <string name="btnOneStr">One</string>
+    <string name="btnTwoStr">Two</string>
+    <string name="btncustom">客製化按鈕被點擊</string>
+    <string name="imgbtn">圖形化按鈕被點擊</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotificationEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_send">送出通知</string>
+    <string name="btn_cancel">取消通知</string>
+    <string name="tv_title">標題</string>
+    <string name="tv_content">內文</string>
+    <string name="title">老師在你的背後</string>
+    <string name="content">看你有沒有認真寫code？！</string>
+    <string name="ticker">你收到一封簡訊</string>
+</resources>

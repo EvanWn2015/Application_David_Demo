@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_btAdd">Add fragment</string>
+    <string name="text_btAttach">Attach fragment</string>
+    <string name="text_btDetach">Detach fragment</string>
+    <string name="text_btFinish">Finish</string>
+    <string name="text_btRemove">Remove fragment</string>
+    <string name="text_btReplace">Replace fragment</string>
+    <string name="static_fragment">This is static fragment</string>
+</resources>

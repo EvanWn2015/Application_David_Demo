@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwoBarsEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="rbquestion">今日用餐滿意度？</string>
+    <string name="sbdescription">滑吧！</string>
+    <string name="rbresult">評價：</string>
+    <string name="sbstart">開始滑...</string>
+    <string name="sbend">結束滑動，紅綠藍值為：</string>
+</resources>

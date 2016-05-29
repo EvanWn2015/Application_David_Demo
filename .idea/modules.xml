@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Application_David_Demo.iml" filepath="$PROJECT_DIR$/Application_David_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02_HelloAndroid/ch02_HelloAndroid.iml" filepath="$PROJECT_DIR$/ch02_HelloAndroid/ch02_HelloAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02_MultiLang/ch02_MultiLang.iml" filepath="$PROJECT_DIR$/ch02_MultiLang/ch02_MultiLang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03_ButtonEx/ch03_ButtonEx.iml" filepath="$PROJECT_DIR$/ch03_ButtonEx/ch03_ButtonEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03_CompositeButtonEx/ch03_CompositeButtonEx.iml" filepath="$PROJECT_DIR$/ch03_CompositeButtonEx/ch03_CompositeButtonEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03_ImageEx/ch03_ImageEx.iml" filepath="$PROJECT_DIR$/ch03_ImageEx/ch03_ImageEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03_InputEx/ch03_InputEx.iml" filepath="$PROJECT_DIR$/ch03_InputEx/ch03_InputEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03_LayoutEx/ch03_LayoutEx.iml" filepath="$PROJECT_DIR$/ch03_LayoutEx/ch03_LayoutEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03_ScrollViewEx/ch03_ScrollViewEx.iml" filepath="$PROJECT_DIR$/ch03_ScrollViewEx/ch03_ScrollViewEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03_StyleTheme/ch03_StyleTheme.iml" filepath="$PROJECT_DIR$/ch03_StyleTheme/ch03_StyleTheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03_TwoBarsEx/ch03_TwoBarsEx.iml" filepath="$PROJECT_DIR$/ch03_TwoBarsEx/ch03_TwoBarsEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04_AutoCompleteTextViewEx/ch04_AutoCompleteTextViewEx.iml" filepath="$PROJECT_DIR$/ch04_AutoCompleteTextViewEx/ch04_AutoCompleteTextViewEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04_GestureEx/ch04_GestureEx.iml" filepath="$PROJECT_DIR$/ch04_GestureEx/ch04_GestureEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04_GridViewEx/ch04_GridViewEx.iml" filepath="$PROJECT_DIR$/ch04_GridViewEx/ch04_GridViewEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04_ListActivityEx/ch04_ListActivityEx.iml" filepath="$PROJECT_DIR$/ch04_ListActivityEx/ch04_ListActivityEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04_ListViewEx/ch04_ListViewEx.iml" filepath="$PROJECT_DIR$/ch04_ListViewEx/ch04_ListViewEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04_MenusEx/ch04_MenusEx.iml" filepath="$PROJECT_DIR$/ch04_MenusEx/ch04_MenusEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04_SpinnerEx/ch04_SpinnerEx.iml" filepath="$PROJECT_DIR$/ch04_SpinnerEx/ch04_SpinnerEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04_TouchEx/ch04_TouchEx.iml" filepath="$PROJECT_DIR$/ch04_TouchEx/ch04_TouchEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05_DrawCanvasEx/ch05_DrawCanvasEx.iml" filepath="$PROJECT_DIR$/ch05_DrawCanvasEx/ch05_DrawCanvasEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05_DrawableAniEx/ch05_DrawableAniEx.iml" filepath="$PROJECT_DIR$/ch05_DrawableAniEx/ch05_DrawableAniEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05_ViewAniEx/ch05_ViewAniEx.iml" filepath="$PROJECT_DIR$/ch05_ViewAniEx/ch05_ViewAniEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06_ActivityLifeCycleEx/ch06_ActivityLifeCycleEx.iml" filepath="$PROJECT_DIR$/ch06_ActivityLifeCycleEx/ch06_ActivityLifeCycleEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06_ActivityReturnEx/ch06_ActivityReturnEx.iml" filepath="$PROJECT_DIR$/ch06_ActivityReturnEx/ch06_ActivityReturnEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06_BroadcastReceiverEx/ch06_BroadcastReceiverEx.iml" filepath="$PROJECT_DIR$/ch06_BroadcastReceiverEx/ch06_BroadcastReceiverEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06_BroadcastSenderEx/ch06_BroadcastSenderEx.iml" filepath="$PROJECT_DIR$/ch06_BroadcastSenderEx/ch06_BroadcastSenderEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06_IntentEx/ch06_IntentEx.iml" filepath="$PROJECT_DIR$/ch06_IntentEx/ch06_IntentEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06_IntentFilterEx/ch06_IntentFilterEx.iml" filepath="$PROJECT_DIR$/ch06_IntentFilterEx/ch06_IntentFilterEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06_NotificationEx/ch06_NotificationEx.iml" filepath="$PROJECT_DIR$/ch06_NotificationEx/ch06_NotificationEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06_ServiceBindEx/ch06_ServiceBindEx.iml" filepath="$PROJECT_DIR$/ch06_ServiceBindEx/ch06_ServiceBindEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06_StartServiceEx/ch06_StartServiceEx.iml" filepath="$PROJECT_DIR$/ch06_StartServiceEx/ch06_StartServiceEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07_AlertDialogEx/ch07_AlertDialogEx.iml" filepath="$PROJECT_DIR$/ch07_AlertDialogEx/ch07_AlertDialogEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07_CustomDialogEx/ch07_CustomDialogEx.iml" filepath="$PROJECT_DIR$/ch07_CustomDialogEx/ch07_CustomDialogEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07_DateTimePickerDialogEx/ch07_DateTimePickerDialogEx.iml" filepath="$PROJECT_DIR$/ch07_DateTimePickerDialogEx/ch07_DateTimePickerDialogEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07_FlexibleFragment/ch07_FlexibleFragment.iml" filepath="$PROJECT_DIR$/ch07_FlexibleFragment/ch07_FlexibleFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07_FragmentEx/ch07_FragmentEx.iml" filepath="$PROJECT_DIR$/ch07_FragmentEx/ch07_FragmentEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07_TabsEx/ch07_TabsEx.iml" filepath="$PROJECT_DIR$/ch07_TabsEx/ch07_TabsEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07_ToolBarEx/ch07_ToolBarEx.iml" filepath="$PROJECT_DIR$/ch07_ToolBarEx/ch07_ToolBarEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07_ViewPagerEx/ch07_ViewPagerEx.iml" filepath="$PROJECT_DIR$/ch07_ViewPagerEx/ch07_ViewPagerEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08_AssetsEx/ch08_AssetsEx.iml" filepath="$PROJECT_DIR$/ch08_AssetsEx/ch08_AssetsEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08_ExternalStorageEx/ch08_ExternalStorageEx.iml" filepath="$PROJECT_DIR$/ch08_ExternalStorageEx/ch08_ExternalStorageEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08_InternalStorageEx/ch08_InternalStorageEx.iml" filepath="$PROJECT_DIR$/ch08_InternalStorageEx/ch08_InternalStorageEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08_PreferenceFragmentEx/ch08_PreferenceFragmentEx.iml" filepath="$PROJECT_DIR$/ch08_PreferenceFragmentEx/ch08_PreferenceFragmentEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08_SharedPreferenceEx/ch08_SharedPreferenceEx.iml" filepath="$PROJECT_DIR$/ch08_SharedPreferenceEx/ch08_SharedPreferenceEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09_SQLiteCopyEx/ch09_SQLiteCopyEx.iml" filepath="$PROJECT_DIR$/ch09_SQLiteCopyEx/ch09_SQLiteCopyEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09_SQLiteEx/ch09_SQLiteEx.iml" filepath="$PROJECT_DIR$/ch09_SQLiteEx/ch09_SQLiteEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10_LocationEx/ch10_LocationEx.iml" filepath="$PROJECT_DIR$/ch10_LocationEx/ch10_LocationEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10_MapsEx/ch10_MapsEx.iml" filepath="$PROJECT_DIR$/ch10_MapsEx/ch10_MapsEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10_new_LocationEx/ch10_new_LocationEx.iml" filepath="$PROJECT_DIR$/ch10_new_LocationEx/ch10_new_LocationEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10_new_MapsEx/ch10_new_MapsEx.iml" filepath="$PROJECT_DIR$/ch10_new_MapsEx/ch10_new_MapsEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_BluetoothChatEx/ch11_BluetoothChatEx.iml" filepath="$PROJECT_DIR$/ch11_BluetoothChatEx/ch11_BluetoothChatEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_ChatEx/ch11_ChatEx.iml" filepath="$PROJECT_DIR$/ch11_ChatEx/ch11_ChatEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_ChatServiceEx/ch11_ChatServiceEx.iml" filepath="$PROJECT_DIR$/ch11_ChatServiceEx/ch11_ChatServiceEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_P2PClientEx/ch11_P2PClientEx.iml" filepath="$PROJECT_DIR$/ch11_P2PClientEx/ch11_P2PClientEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_P2PServerEx/ch11_P2PServerEx.iml" filepath="$PROJECT_DIR$/ch11_P2PServerEx/ch11_P2PServerEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_ActivityTransitionEx/lollipop_ActivityTransitionEx.iml" filepath="$PROJECT_DIR$/lollipop_ActivityTransitionEx/lollipop_ActivityTransitionEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_AsyncTaskEx/lollipop_AsyncTaskEx.iml" filepath="$PROJECT_DIR$/lollipop_AsyncTaskEx/lollipop_AsyncTaskEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_CardViewEx/lollipop_CardViewEx.iml" filepath="$PROJECT_DIR$/lollipop_CardViewEx/lollipop_CardViewEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_FloatActionButtonEx/lollipop_FloatActionButtonEx.iml" filepath="$PROJECT_DIR$/lollipop_FloatActionButtonEx/lollipop_FloatActionButtonEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_FormEx/lollipop_FormEx.iml" filepath="$PROJECT_DIR$/lollipop_FormEx/lollipop_FormEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_HttpUrlConnectionEx/lollipop_HttpUrlConnectionEx.iml" filepath="$PROJECT_DIR$/lollipop_HttpUrlConnectionEx/lollipop_HttpUrlConnectionEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_LittleAppleEx/lollipop_LittleAppleEx.iml" filepath="$PROJECT_DIR$/lollipop_LittleAppleEx/lollipop_LittleAppleEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_MaterialEx/lollipop_MaterialEx.iml" filepath="$PROJECT_DIR$/lollipop_MaterialEx/lollipop_MaterialEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_OKHttpEx/lollipop_OKHttpEx.iml" filepath="$PROJECT_DIR$/lollipop_OKHttpEx/lollipop_OKHttpEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_RecyclerCardViewEx/lollipop_RecyclerCardViewEx.iml" filepath="$PROJECT_DIR$/lollipop_RecyclerCardViewEx/lollipop_RecyclerCardViewEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_RecyclerViewEx/lollipop_RecyclerViewEx.iml" filepath="$PROJECT_DIR$/lollipop_RecyclerViewEx/lollipop_RecyclerViewEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_SharedElementTransitionEx/lollipop_SharedElementTransitionEx.iml" filepath="$PROJECT_DIR$/lollipop_SharedElementTransitionEx/lollipop_SharedElementTransitionEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_VolleyEx/lollipop_VolleyEx.iml" filepath="$PROJECT_DIR$/lollipop_VolleyEx/lollipop_VolleyEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lollipop_VolleyLruCacheEx/lollipop_VolleyLruCacheEx.iml" filepath="$PROJECT_DIR$/lollipop_VolleyLruCacheEx/lollipop_VolleyLruCacheEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_spot_ex8_1/my_spot_ex8_1.iml" filepath="$PROJECT_DIR$/my_spot_ex8_1/my_spot_ex8_1.iml" />
+    </modules>
+  </component>
+</project>

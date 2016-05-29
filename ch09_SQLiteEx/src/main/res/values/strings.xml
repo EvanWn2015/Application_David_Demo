@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SQLiteEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_RowCount">(row number/ total rows)</string>
+    <string name="tv_Query">Query</string>
+    <string name="tv_Delete">Delete</string>
+    <string name="tv_Title">Restaurants</string>
+    <string name="tv_RestId">ID Number</string>
+    <string name="tv_RestName">Name</string>
+    <string name="tv_RestWeb">Web</string>
+    <string name="tv_RestPhone">Phone</string>
+    <string name="tv_RestSpeciality">Speciality</string>
+    <string name="tv_Clear">Clear</string>
+    <string name="btn_Next">Next</string>
+    <string name="btn_Back">Back</string>
+    <string name="btn_Insert">Insert</string>
+    <string name="btn_Update">Update</string>
+    <string name="btn_Cancel">Cancel</string>
+    <string name="btn_TakePicture">Take Picture</string>
+    <string name="btn_LoadPicture">Load Picture</string>
+    <string name="msg_InsertSuccess">Insert successfully</string>
+    <string name="msg_InsertFail">Insert fail</string>
+    <string name="msg_NameIsInvalid">Restaurant name is invalid</string>
+    <string name="msg_NoImage">No image</string>
+    <string name="msg_NoDataFound">No data found</string>
+    <string name="msg_RowDeleted">row deleted</string>
+    <string name="msg_RowUpdated">row updated</string>
+    <string name="msg_NoCameraAppsFound">no camera Apps found</string>
+
+</resources>

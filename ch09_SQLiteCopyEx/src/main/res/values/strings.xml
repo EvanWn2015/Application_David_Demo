@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLiteCopyEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="id">編號</string>
+    <string name="name">店名</string>
+    <string name="phoneNo">聯絡電話</string>
+    <string name="address">地址</string>
+    <string name="next">下一筆</string>
+    <string name="back">上一筆</string>
+    <string name="noData">沒有資料</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VolleyEx</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="btn_start">Start</string>
+    <string name="msg_progress">Loading...</string>
+    <string name="image_url">http://i135.photobucket.com/albums/q123/ccsalan92002/scenic_photo/D1.jpg</string>
+
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">My_Spot_Ex8_1</string>
+
+
+    <!--activity_main-->
+    <string name="tv_Spot_Title">景點標題:</string>
+    <string name="tv_Row_Count">row number/ total rows</string>
+    <string name="tv_Spot_Id">編號:</string>
+    <string name="tv_Spot_Name">名稱:</string>
+    <string name="tv_Spot_Web">網址:</string>
+    <string name="tv_Spot_Location">位置:</string>
+
+    <string name="btn_Back">上一筆</string>
+    <string name="btn_Next">下一筆</string>
+    <string name="btn_SearchSQL">查詢</string>
+    <string name="btn_Insert">輸入</string>
+    <string name="btn_Update">更新</string>
+    <string name="btn_Delete">刪除</string>
+
+    <!--activity_insert-->
+    <string name="btn_Take_Picture">拍攝圖片</string>
+    <string name="btn_Load_Picture">選擇圖片</string>
+    <string name="et_Insert">輸入</string>
+    <string name="et_Cancel">清除</string>
+
+
+    <!--activity_update-->
+
+
+    <!--activity_search-->
+    <string name="dialog_Title">查詢資料</string>
+    <string name="tv_Search_ID">輸入欲查詢資料編號:</string>
+    <string name="btn_Search">確定</string>
+    <string name="btn_btnCancelable">取消返回</string>
+
+    <!--Toast.makeText-->
+    <string name="no_camera_Apps_found">沒發現可用的攝像頭</string>
+    <string name="toast_no_data">沒有資料</string>
+    <string name="no_date_found">沒發現任何資料</string>
+    <string name="toast_no_data_search">沒有資料可查</string>
+    <string name="insert_successfully">輸入成功</string>
+    <string name="insert_fail">輸入失敗</string>
+
+</resources>

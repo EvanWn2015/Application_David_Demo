@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DateTimePickerDialogEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_tvDateTime">Current date and time</string>
+    <string name="text_btnDatePicker">Date picker</string>
+    <string name="text_btnTimePicker">Time Picker</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerCardViewEx</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_choose">Click the item again please</string>
+</resources>

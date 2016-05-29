@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OKHttpEx</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="image_urls_get">
+        <item>http://i135.photobucket.com/albums/q123/ccsalan92002/scenic_photo/D1.jpg</item>
+        <item>http://i135.photobucket.com/albums/q123/ccsalan92002/scenic_photo/D2.jpg</item>
+        <item>http://i135.photobucket.com/albums/q123/ccsalan92002/scenic_photo/C3.jpg</item>
+        <item>http://i135.photobucket.com/albums/q123/ccsalan92002/scenic_photo/C4.jpg</item>
+        <item>http://i135.photobucket.com/albums/q123/ccsalan92002/scenic_photo/C5.jpg</item>
+    </string-array>
+
+</resources>

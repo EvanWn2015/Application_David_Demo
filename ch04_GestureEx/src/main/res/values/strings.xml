@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GestureEx</string>
+    <string name="text_tvMessage">Please make a gesture!</string>
+    <string name="action_settings">Settings</string>
+</resources>

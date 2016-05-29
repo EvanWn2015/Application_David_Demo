@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PreferenceFragmentEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_personal_info">設定個人資料</string>
+
+    <string name="pref_category_basic_data">基本資料</string>
+    <string name="pref_name">姓名</string>
+    <string name="pref_name_summary">輸入您的姓名</string>
+    <string name="pref_click_me">按我</string>
+    <string name="pref_click_me_summary">按一下</string>
+    <string name="pref_sex">性別</string>
+    <string name="pref_sex_summary">選擇您的性別</string>
+
+    <string-array name="pref_sex_list">
+        <item>男生</item>
+        <item>女生</item>
+    </string-array>
+    <string name="pref_sex_default">男生</string>
+
+    <string name="pref_category_advanced_data">進階資料</string>
+
+    <string-array name="pref_hobby_list">
+        <item>旅遊</item>
+        <item>閱讀</item>
+        <item>美術</item>
+    </string-array>
+    <string-array name="pref_hobby_value_default_list">
+        <item>美術</item>
+    </string-array>
+
+    <string name="pref_hobby">興趣</string>
+    <string name="pref_hobby_summary">選擇您的興趣</string>
+    <string name="pref_hobby_baseball">棒球</string>
+    <string name="pref_hobby_music">音樂</string>
+    <string name="pref_hobby_swimming">游泳</string>
+    <string name="pref_ringtone">選擇鈴聲</string>
+    <string name="pref_ringtone_summary">選擇您喜愛的鈴聲</string>
+    <string name="pref_disclosure">公開個人資料</string>
+    <string name="pref_disclosure_summary">是否公開個人資料</string>
+    <string name="pref_goto_my_web_page">參觀個人網頁</string>
+    <string name="pref_goto_my_web_page_summary">開啟瀏覽器，連到我的網頁</string>
+
+</resources>

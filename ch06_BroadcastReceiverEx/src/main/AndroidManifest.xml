@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="idv.david.broadcastreceiverex" >
+    
+    <!--加入permission，使用者隱私權限設定-->
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/><!--接收簡訊-->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/> <!--接收到電話廣播-->
+    
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--加入接收簡訊廣播設定-->
+        <receiver android:name=".SmsReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+        <!--加入接收來電廣播設定-->
+        <receiver android:name=".PhoneReceiver"><!--接收到電話執行PhoneReceiver.java-->
+            <intent-filter>
+                <action android:name="android.intent.action.PHONE_STATE" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

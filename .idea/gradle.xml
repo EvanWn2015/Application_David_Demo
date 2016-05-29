@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ch02_HelloAndroid" />
+            <option value="$PROJECT_DIR$/ch02_MultiLang" />
+            <option value="$PROJECT_DIR$/ch03_ButtonEx" />
+            <option value="$PROJECT_DIR$/ch03_CompositeButtonEx" />
+            <option value="$PROJECT_DIR$/ch03_ImageEx" />
+            <option value="$PROJECT_DIR$/ch03_InputEx" />
+            <option value="$PROJECT_DIR$/ch03_LayoutEx" />
+            <option value="$PROJECT_DIR$/ch03_ScrollViewEx" />
+            <option value="$PROJECT_DIR$/ch03_StyleTheme" />
+            <option value="$PROJECT_DIR$/ch03_TwoBarsEx" />
+            <option value="$PROJECT_DIR$/ch04_AutoCompleteTextViewEx" />
+            <option value="$PROJECT_DIR$/ch04_GestureEx" />
+            <option value="$PROJECT_DIR$/ch04_GridViewEx" />
+            <option value="$PROJECT_DIR$/ch04_ListActivityEx" />
+            <option value="$PROJECT_DIR$/ch04_ListViewEx" />
+            <option value="$PROJECT_DIR$/ch04_MenusEx" />
+            <option value="$PROJECT_DIR$/ch04_SpinnerEx" />
+            <option value="$PROJECT_DIR$/ch04_TouchEx" />
+            <option value="$PROJECT_DIR$/ch05_DrawCanvasEx" />
+            <option value="$PROJECT_DIR$/ch05_DrawableAniEx" />
+            <option value="$PROJECT_DIR$/ch05_ViewAniEx" />
+            <option value="$PROJECT_DIR$/ch06_ActivityLifeCycleEx" />
+            <option value="$PROJECT_DIR$/ch06_ActivityReturnEx" />
+            <option value="$PROJECT_DIR$/ch06_BroadcastReceiverEx" />
+            <option value="$PROJECT_DIR$/ch06_BroadcastSenderEx" />
+            <option value="$PROJECT_DIR$/ch06_IntentEx" />
+            <option value="$PROJECT_DIR$/ch06_IntentFilterEx" />
+            <option value="$PROJECT_DIR$/ch06_NotificationEx" />
+            <option value="$PROJECT_DIR$/ch06_ServiceBindEx" />
+            <option value="$PROJECT_DIR$/ch06_StartServiceEx" />
+            <option value="$PROJECT_DIR$/ch07_AlertDialogEx" />
+            <option value="$PROJECT_DIR$/ch07_CustomDialogEx" />
+            <option value="$PROJECT_DIR$/ch07_DateTimePickerDialogEx" />
+            <option value="$PROJECT_DIR$/ch07_FlexibleFragment" />
+            <option value="$PROJECT_DIR$/ch07_FragmentEx" />
+            <option value="$PROJECT_DIR$/ch07_TabsEx" />
+            <option value="$PROJECT_DIR$/ch07_ToolBarEx" />
+            <option value="$PROJECT_DIR$/ch07_ViewPagerEx" />
+            <option value="$PROJECT_DIR$/ch08_AssetsEx" />
+            <option value="$PROJECT_DIR$/ch08_ExternalStorageEx" />
+            <option value="$PROJECT_DIR$/ch08_InternalStorageEx" />
+            <option value="$PROJECT_DIR$/ch08_PreferenceFragmentEx" />
+            <option value="$PROJECT_DIR$/ch08_SharedPreferenceEx" />
+            <option value="$PROJECT_DIR$/ch09_SQLiteCopyEx" />
+            <option value="$PROJECT_DIR$/ch09_SQLiteEx" />
+            <option value="$PROJECT_DIR$/ch10_LocationEx" />
+            <option value="$PROJECT_DIR$/ch10_MapsEx" />
+            <option value="$PROJECT_DIR$/ch10_new_LocationEx" />
+            <option value="$PROJECT_DIR$/ch10_new_MapsEx" />
+            <option value="$PROJECT_DIR$/ch11_BluetoothChatEx" />
+            <option value="$PROJECT_DIR$/ch11_ChatEx" />
+            <option value="$PROJECT_DIR$/ch11_ChatServiceEx" />
+            <option value="$PROJECT_DIR$/ch11_P2PClientEx" />
+            <option value="$PROJECT_DIR$/ch11_P2PServerEx" />
+            <option value="$PROJECT_DIR$/lollipop_ActivityTransitionEx" />
+            <option value="$PROJECT_DIR$/lollipop_AsyncTaskEx" />
+            <option value="$PROJECT_DIR$/lollipop_CardViewEx" />
+            <option value="$PROJECT_DIR$/lollipop_FloatActionButtonEx" />
+            <option value="$PROJECT_DIR$/lollipop_FormEx" />
+            <option value="$PROJECT_DIR$/lollipop_HttpUrlConnectionEx" />
+            <option value="$PROJECT_DIR$/lollipop_LittleAppleEx" />
+            <option value="$PROJECT_DIR$/lollipop_MaterialEx" />
+            <option value="$PROJECT_DIR$/lollipop_OKHttpEx" />
+            <option value="$PROJECT_DIR$/lollipop_RecyclerCardViewEx" />
+            <option value="$PROJECT_DIR$/lollipop_RecyclerViewEx" />
+            <option value="$PROJECT_DIR$/lollipop_SharedElementTransitionEx" />
+            <option value="$PROJECT_DIR$/lollipop_VolleyEx" />
+            <option value="$PROJECT_DIR$/lollipop_VolleyLruCacheEx" />
+            <option value="$PROJECT_DIR$/my_spot_ex8_1" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ch02_HelloAndroid" />
+            <option value="$PROJECT_DIR$/ch02_MultiLang" />
+            <option value="$PROJECT_DIR$/ch03_ButtonEx" />
+            <option value="$PROJECT_DIR$/ch03_CompositeButtonEx" />
+            <option value="$PROJECT_DIR$/ch03_ImageEx" />
+            <option value="$PROJECT_DIR$/ch03_InputEx" />
+            <option value="$PROJECT_DIR$/ch03_LayoutEx" />
+            <option value="$PROJECT_DIR$/ch03_ScrollViewEx" />
+            <option value="$PROJECT_DIR$/ch03_StyleTheme" />
+            <option value="$PROJECT_DIR$/ch03_TwoBarsEx" />
+            <option value="$PROJECT_DIR$/ch04_AutoCompleteTextViewEx" />
+            <option value="$PROJECT_DIR$/ch04_GestureEx" />
+            <option value="$PROJECT_DIR$/ch04_GridViewEx" />
+            <option value="$PROJECT_DIR$/ch04_ListActivityEx" />
+            <option value="$PROJECT_DIR$/ch04_ListViewEx" />
+            <option value="$PROJECT_DIR$/ch04_MenusEx" />
+            <option value="$PROJECT_DIR$/ch04_SpinnerEx" />
+            <option value="$PROJECT_DIR$/ch04_TouchEx" />
+            <option value="$PROJECT_DIR$/ch05_DrawCanvasEx" />
+            <option value="$PROJECT_DIR$/ch05_DrawableAniEx" />
+            <option value="$PROJECT_DIR$/ch05_ViewAniEx" />
+            <option value="$PROJECT_DIR$/ch06_ActivityLifeCycleEx" />
+            <option value="$PROJECT_DIR$/ch06_ActivityReturnEx" />
+            <option value="$PROJECT_DIR$/ch06_BroadcastReceiverEx" />
+            <option value="$PROJECT_DIR$/ch06_BroadcastSenderEx" />
+            <option value="$PROJECT_DIR$/ch06_IntentEx" />
+            <option value="$PROJECT_DIR$/ch06_IntentFilterEx" />
+            <option value="$PROJECT_DIR$/ch06_NotificationEx" />
+            <option value="$PROJECT_DIR$/ch06_ServiceBindEx" />
+            <option value="$PROJECT_DIR$/ch06_StartServiceEx" />
+            <option value="$PROJECT_DIR$/ch07_AlertDialogEx" />
+            <option value="$PROJECT_DIR$/ch07_CustomDialogEx" />
+            <option value="$PROJECT_DIR$/ch07_DateTimePickerDialogEx" />
+            <option value="$PROJECT_DIR$/ch07_FlexibleFragment" />
+            <option value="$PROJECT_DIR$/ch07_FragmentEx" />
+            <option value="$PROJECT_DIR$/ch07_TabsEx" />
+            <option value="$PROJECT_DIR$/ch07_ToolBarEx" />
+            <option value="$PROJECT_DIR$/ch07_ViewPagerEx" />
+            <option value="$PROJECT_DIR$/ch08_AssetsEx" />
+            <option value="$PROJECT_DIR$/ch08_ExternalStorageEx" />
+            <option value="$PROJECT_DIR$/ch08_InternalStorageEx" />
+            <option value="$PROJECT_DIR$/ch08_PreferenceFragmentEx" />
+            <option value="$PROJECT_DIR$/ch08_SharedPreferenceEx" />
+            <option value="$PROJECT_DIR$/ch09_SQLiteCopyEx" />
+            <option value="$PROJECT_DIR$/ch09_SQLiteEx" />
+            <option value="$PROJECT_DIR$/ch10_LocationEx" />
+            <option value="$PROJECT_DIR$/ch10_MapsEx" />
+            <option value="$PROJECT_DIR$/ch10_new_LocationEx" />
+            <option value="$PROJECT_DIR$/ch10_new_MapsEx" />
+            <option value="$PROJECT_DIR$/ch11_BluetoothChatEx" />
+            <option value="$PROJECT_DIR$/ch11_ChatEx" />
+            <option value="$PROJECT_DIR$/ch11_ChatServiceEx" />
+            <option value="$PROJECT_DIR$/ch11_P2PClientEx" />
+            <option value="$PROJECT_DIR$/ch11_P2PServerEx" />
+            <option value="$PROJECT_DIR$/lollipop_ActivityTransitionEx" />
+            <option value="$PROJECT_DIR$/lollipop_AsyncTaskEx" />
+            <option value="$PROJECT_DIR$/lollipop_CardViewEx" />
+            <option value="$PROJECT_DIR$/lollipop_FloatActionButtonEx" />
+            <option value="$PROJECT_DIR$/lollipop_FormEx" />
+            <option value="$PROJECT_DIR$/lollipop_HttpUrlConnectionEx" />
+            <option value="$PROJECT_DIR$/lollipop_LittleAppleEx" />
+            <option value="$PROJECT_DIR$/lollipop_MaterialEx" />
+            <option value="$PROJECT_DIR$/lollipop_OKHttpEx" />
+            <option value="$PROJECT_DIR$/lollipop_RecyclerCardViewEx" />
+            <option value="$PROJECT_DIR$/lollipop_RecyclerViewEx" />
+            <option value="$PROJECT_DIR$/lollipop_SharedElementTransitionEx" />
+            <option value="$PROJECT_DIR$/lollipop_VolleyEx" />
+            <option value="$PROJECT_DIR$/lollipop_VolleyLruCacheEx" />
+            <option value="$PROJECT_DIR$/my_spot_ex8_1" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

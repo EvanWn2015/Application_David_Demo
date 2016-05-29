@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SharedPreferenceEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_title">音樂播放設定</string>
+    <string name="tv_volume">音量大小(1 ～ 10)</string>
+    <string name="tv_random">隨機播放</string>
+    <string name="check_repeat">重覆播放</string>
+    <string name="rb_yes">Yes</string>
+    <string name="rb_no">No</string>
+    <string name="btn_save">儲存設定</string>
+    <string name="btn_load">讀取設定</string>
+    <string name="btn_default">還原預設值</string>
+    <string name="et_error">輸入資料有誤，請重新確認</string>
+    <string name="save_pref">設定資料已儲存</string>
+</resources>

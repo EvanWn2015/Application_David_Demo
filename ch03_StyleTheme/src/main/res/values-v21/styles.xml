@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--支援Android版本設定-->
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">@color/Primary</item>
+        <item name="android:colorPrimaryDark">@color/Primary_dark</item>
+        <item name="android:navigationBarColor">@color/RoyalBlue</item>
+    </style>
+</resources>

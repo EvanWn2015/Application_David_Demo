@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/text_tvPlace" />
+
+    <!--
+    android:spinnerMode有dropdown與dialog兩個可選
+    使用dialog，選項會以小視窗的呈現方式讓使用者點選
+    通常會再搭配android:prompt屬性做為小視窗的標題
+    -->
+
+
+    <Spinner
+        android:id="@+id/spPlace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/place_array"
+        android:spinnerMode="dropdown"
+        android:prompt="@string/prompt"/>
+    <!--.spinnerMode，"dialog"可以呼叫後背景變暗，"dropdown"則是預設！！-->
+    <!--entries="String_array位置"一定要加入，不然下拉單不出來-->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/text_tvTeam" />
+
+    <Spinner
+        android:id="@+id/spTeam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvResult"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="30dp"
+        android:background="#00FFFF"
+        android:padding="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>
+

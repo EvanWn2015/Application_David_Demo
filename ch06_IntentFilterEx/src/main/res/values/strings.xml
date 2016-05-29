@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentFilterEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnBrowser">瀏覽網頁</string>
+    <string name="btnEditPic">編輯圖片</string>
+    <string name="btnViewPic">瀏覽圖片</string>
+    <string name="btnDialTel">撥打電話</string>
+</resources>

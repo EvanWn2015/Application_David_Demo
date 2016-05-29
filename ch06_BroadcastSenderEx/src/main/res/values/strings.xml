@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BroadcastSenderEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_bc1">送出Broadcast 1</string>
+    <string name="btn_bc2">送出Broadcast 2</string>
+    <string name="btn_bc2_reg">註冊Broadcast 2</string>
+    <string name="btn_bc2_cancel">取消Broadcast 2</string>
+</resources>

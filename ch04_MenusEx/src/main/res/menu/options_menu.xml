@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/menuMLB"
+        android:title="@string/mlb">
+        <menu>
+            <item
+                android:id="@+id/al"
+                android:icon="@drawable/al"
+                android:title="@string/american" />
+            <item
+                android:id="@+id/nl"
+                android:icon="@drawable/nl"
+                android:title="@string/national" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/pbl"
+        android:title="@string/pbl" />
+    <item
+        android:id="@+id/cpbl"
+        android:title="@string/cpbl" />
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit" />
+</menu>

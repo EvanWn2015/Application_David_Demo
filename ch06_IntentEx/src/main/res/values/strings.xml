@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntentEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvTeam">球隊</string>
+    <string name="tvPlayer">球員</string>
+    <string name="tvSalary">薪水</string>
+    <string name="btnSubmit">確定</string>
+    <string name="hint">請輸入資料</string>
+    <string name="resultTitle">輸入資料如下：</string>
+    <string name="resultTitleObj">物件傳送資料如下：</string>
+    <string name="btnBack">返回</string>
+    <string name="inputError">資料未輸入或輸入錯誤，請返回再輸入一次！！</string>
+</resources>

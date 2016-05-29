@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TouchEx</string>
+    <string name="tvMessage">Please touch the screen.</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AssetsEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_fonts">更換字型</string>
+    <string name="btn_return">還原字型</string>
+</resources>
