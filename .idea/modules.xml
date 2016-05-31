@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Application_David_Demo.iml" filepath="$PROJECT_DIR$/Application_David_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BarcodesGeneratorEx/BarcodesGeneratorEx.iml" filepath="$PROJECT_DIR$/BarcodesGeneratorEx/BarcodesGeneratorEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BarcodesScannerEx/BarcodesScannerEx.iml" filepath="$PROJECT_DIR$/BarcodesScannerEx/BarcodesScannerEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch02_HelloAndroid/ch02_HelloAndroid.iml" filepath="$PROJECT_DIR$/ch02_HelloAndroid/ch02_HelloAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch02_MultiLang/ch02_MultiLang.iml" filepath="$PROJECT_DIR$/ch02_MultiLang/ch02_MultiLang.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch03_ButtonEx/ch03_ButtonEx.iml" filepath="$PROJECT_DIR$/ch03_ButtonEx/ch03_ButtonEx.iml" />
