@@ -9,8 +9,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AudioExternalEx" />
+            <option value="$PROJECT_DIR$/AudioRecorderEx" />
+            <option value="$PROJECT_DIR$/AudioResEx" />
             <option value="$PROJECT_DIR$/BarcodesGeneratorEx" />
             <option value="$PROJECT_DIR$/BarcodesScannerEx" />
+            <option value="$PROJECT_DIR$/CameraPictureEx" />
+            <option value="$PROJECT_DIR$/VideoRecorderEx" />
             <option value="$PROJECT_DIR$/ch02_HelloAndroid" />
             <option value="$PROJECT_DIR$/ch02_MultiLang" />
             <option value="$PROJECT_DIR$/ch03_ButtonEx" />
@@ -85,8 +90,13 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AudioExternalEx" />
+            <option value="$PROJECT_DIR$/AudioRecorderEx" />
+            <option value="$PROJECT_DIR$/AudioResEx" />
             <option value="$PROJECT_DIR$/BarcodesGeneratorEx" />
             <option value="$PROJECT_DIR$/BarcodesScannerEx" />
+            <option value="$PROJECT_DIR$/CameraPictureEx" />
+            <option value="$PROJECT_DIR$/VideoRecorderEx" />
             <option value="$PROJECT_DIR$/ch02_HelloAndroid" />
             <option value="$PROJECT_DIR$/ch02_MultiLang" />
             <option value="$PROJECT_DIR$/ch03_ButtonEx" />

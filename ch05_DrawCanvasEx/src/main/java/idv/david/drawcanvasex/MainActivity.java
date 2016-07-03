@@ -1,9 +1,9 @@
 package idv.david.drawcanvasex;
 
-import android.content.pm.ActivityInfo;
 import android.graphics.Color;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.os.Handler;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -12,6 +12,7 @@ import android.widget.RelativeLayout;
 
 
 public class MainActivity extends ActionBarActivity {
+    private Handler handler;
     private Button btnGen;
     private RectBar rectBar;
     private RelativeLayout relativeLayout;
@@ -20,8 +21,10 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        handler = new Handler();
+        handler.post(r);
         // 啟動app時螢幕自動轉為橫向
-        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
+//        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
         findViews();
     }
 
@@ -37,6 +40,14 @@ public class MainActivity extends ActionBarActivity {
             }
         });
     }
+    
+    Runnable r = new Runnable() {
+        @Override
+        public void run() {
+            rectBar.invalidate();
+            handler.postDelayed(r,1000);
+        }
+    };
 
 
     @Override

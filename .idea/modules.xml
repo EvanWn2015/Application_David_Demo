@@ -3,8 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Application_David_Demo.iml" filepath="$PROJECT_DIR$/Application_David_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AudioExternalEx/AudioExternalEx.iml" filepath="$PROJECT_DIR$/AudioExternalEx/AudioExternalEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AudioRecorderEx/AudioRecorderEx.iml" filepath="$PROJECT_DIR$/AudioRecorderEx/AudioRecorderEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AudioResEx/AudioResEx.iml" filepath="$PROJECT_DIR$/AudioResEx/AudioResEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/BarcodesGeneratorEx/BarcodesGeneratorEx.iml" filepath="$PROJECT_DIR$/BarcodesGeneratorEx/BarcodesGeneratorEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/BarcodesScannerEx/BarcodesScannerEx.iml" filepath="$PROJECT_DIR$/BarcodesScannerEx/BarcodesScannerEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CameraPictureEx/CameraPictureEx.iml" filepath="$PROJECT_DIR$/CameraPictureEx/CameraPictureEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoRecorderEx/VideoRecorderEx.iml" filepath="$PROJECT_DIR$/VideoRecorderEx/VideoRecorderEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch02_HelloAndroid/ch02_HelloAndroid.iml" filepath="$PROJECT_DIR$/ch02_HelloAndroid/ch02_HelloAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch02_MultiLang/ch02_MultiLang.iml" filepath="$PROJECT_DIR$/ch02_MultiLang/ch02_MultiLang.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch03_ButtonEx/ch03_ButtonEx.iml" filepath="$PROJECT_DIR$/ch03_ButtonEx/ch03_ButtonEx.iml" />

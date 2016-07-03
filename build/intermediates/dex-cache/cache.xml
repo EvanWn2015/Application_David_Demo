@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
-        jar="D:\Android_project\Application_David_Demo\ch07_DateTimePickerDialogEx\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="D:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
         jumboMode="true"
-        revision="21.1.2"
-        sha1="19a9130105d158b2f121ede70c1ad6dd908f1825">
-        <dex dex="D:\Android_project\Application_David_Demo\ch07_DateTimePickerDialogEx\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c5feafc69d1a39d3ed24a02364737fa313642a90\classes.dex" />
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\Android_project\Application_David_Demo\AudioExternalEx\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.1.1_5cced91c906485987ca972e1fee1bdc07ab2386f\classes.dex" />
     </item>
     <item
-        jar="D:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jar="D:\Android_project\Application_David_Demo\AudioExternalEx\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
-        revision="21.1.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="D:\Android_project\Application_David_Demo\ch07_DateTimePickerDialogEx\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_aaba43fa3500ede519d3c43f8f3f62a4b2d31e19\classes.dex" />
+        revision="22.0.1"
+        sha1="a76ef2ea13fe85b08346b19d2dc3d8a92c80bc92">
+        <dex dex="D:\Android_project\Application_David_Demo\AudioExternalEx\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_394571bc112ef1238c8b916ddaad35a7bf0af58e\classes.dex" />
     </item>
     <item
-        jar="D:\Android_project\Application_David_Demo\ch07_DateTimePickerDialogEx\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="D:\Android_project\Application_David_Demo\AudioExternalEx\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
-        revision="21.1.2"
-        sha1="a7ccd1d8fe28226c5c5666d3af5f06c13a12a4e8">
-        <dex dex="D:\Android_project\Application_David_Demo\ch07_DateTimePickerDialogEx\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0e31b6bc0948ed7d0987d5379b43ee012f3fb0e8\classes.dex" />
+        revision="22.0.1"
+        sha1="3f7a94e7c5219499b30ec237bb7cc9dbe5c25109">
+        <dex dex="D:\Android_project\Application_David_Demo\AudioExternalEx\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e5249e53f06b38adf08ba2c2c4693ea876be2c2e\classes.dex" />
     </item>
     <item
-        jar="D:\Android_project\Application_David_Demo\ch07_DateTimePickerDialogEx\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jar="D:\Android_project\Application_David_Demo\AudioExternalEx\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
         jumboMode="true"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="D:\Android_project\Application_David_Demo\ch07_DateTimePickerDialogEx\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_49b727253eb2d14114792cd2420578b8cdf24e87\classes.dex" />
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\Android_project\Application_David_Demo\AudioExternalEx\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.1.1_483482a29d6d23035d2472dc32e4050ec5064401\classes.dex" />
     </item>
     <item
-        jar="D:\Android_project\Application_David_Demo\ch07_DateTimePickerDialogEx\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jar="D:\Android_project\Application_David_Demo\AudioExternalEx\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
         jumboMode="true"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="D:\Android_project\Application_David_Demo\ch07_DateTimePickerDialogEx\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_128dc93e7d74b2e3bfbd9ab3ba182c3349a9643c\classes.dex" />
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\Android_project\Application_David_Demo\AudioExternalEx\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.1.1_7dccfed12aa11d22c9c0f6aebbeee66c3d007fe1\classes.dex" />
     </item>
     <item
-        jar="D:\Android_project\Application_David_Demo\ch07_DateTimePickerDialogEx\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jar="D:\Android_project\Application_David_Demo\AudioExternalEx\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
         jumboMode="true"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="D:\Android_project\Application_David_Demo\ch07_DateTimePickerDialogEx\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_5e75956486629cc7e5b3c14912ff2c2a0374852a\classes.dex" />
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\Android_project\Application_David_Demo\AudioExternalEx\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.1.1_a73bf58576e8aec815eff04618b86f0821d01ab3\classes.dex" />
     </item>
 
 </items>
